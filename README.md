@@ -28,9 +28,13 @@
 Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança em busca de oportunidades como **Penetration Tester (Pentester)** ou **Assistente de Cibersegurança**. Adoro desvendar como as coisas funcionam por baixo dos panos, debugar redes e explorar arquiteturas.
 
 - 🔍 **Áreas de Foco:** Segurança Ofensiva, Web Application Security, Análise de Tráfego de Rede e Active Directory.
+
 - 🐧 **Meu Ambiente:** Usuário de Linux (Ubuntu), aliando a praticidade da linha de comando (CLI) à agilidade de ferramentas visuais.
+
 - 📝 **Metodologia:** Apaixonado por organização de notas técnicas e mapas conceituais no Obsidian.
+
 - 🎯 **Prática:** Ativo resolvendo laboratórios práticos no TryHackMe e HackTheBox.
+
 
 ---
 
@@ -74,11 +78,9 @@ Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança
       <p><code>Docker</code> · <code>Linux/Ubuntu</code> · <code>Samba</code> · <code>Network Lab</code></p>
     </td>
     <td width="50%" valign="top">
-    <a href="https://github.com/WillowWillo/WriteUps">
-      <h4>📜 4. Divulgação Responsável em app de Delivery X (CWE-319)</h4>
+      <h4>📜 <a href="https://github.com/WillowWillo/WriteUps/tree/main/writeups/2026-httpdns-cookie-leak">4. Divulgação Responsável: Cookie Leak via HTTPDNS (CWE-319)</a></h4>
       <p>Descoberta de tráfego de autenticação/tokens em texto claro via requisições HTTPDNS, acompanhada de prova de conceito e confecção de relatório formal de disclosure.</p>
       <p><code>HTTPDNS</code> · <code>Vulnerability Disclosure</code> · <code>Network Security</code></p>
-    </a>
     </td>
   </tr>
 </table>
