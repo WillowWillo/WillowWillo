@@ -1,90 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Olá,%20sou%20Willow%20👋&fontSize=42&fontColor=fff&animation=twinkling" width="100%" />
+  <h1>Hi there, I'm Guilherme Corgosinho 👋</h1>
+  <p><strong>Cybersecurity Enthusiast | Aspiring Penetration Tester | Network Analysis & Reverse Engineering</strong></p>
+  <p>📍 Santo André, São Paulo, Brazil</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Redes+%26+Infraestrutura;Ethical+Hacking+%26+Defense;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/guilherme-corgosinho">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:guilherme.corgosinho@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://tryhackme.com/p/corgosinho">
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 🛡️ Sobre Mim
 
-Profissional/entusiasta focado em **Cibersegurança** e **Redes de Computadores**. Apaixonado por entender o funcionamento interno de protocolos, arquiteturas seguras, análise de vulnerabilidades e automação de processos.
+Sou estudante e entusiasta de Tecnologia da Informação, Cibersegurança e Redes, com foco prático em transição de carreira para posições como **Penetration Tester (Pentester)** ou **Assistente de Cibersegurança**.
 
-- 🔭 Atualmente trabalhando e estudando em projetos de **análise de redes** e **hardening de sistemas**.
-- 🌱 Aprofundando conhecimentos em **Pentest**, **Blue Team** e **Cloud Security**.
-- 💬 Pode me perguntar sobre: **Redes de Computadores, Linux, Ferramentas de Segurança e Python**.
-- ⚡ Curiosidade: Acredito que a melhor defesa começa por entender como o ataque funciona na prática.
-
----
-
-### 🎯 Áreas de Interesse & Foco
-
-- **Segurança da Informação:** Análise de vulnerabilidades, SIEM, testes de intrusão e resposta a incidentes.
-- **Redes & Infraestrutura:** Protocolos TCP/IP, roteamento, firewalls, segmentação de redes e VPNs.
-- **Automação & Scripting:** Criação de scripts para reconhecimento, automação de tarefas e auditorias de segurança.
+- 🎯 **Foco de Atuação:** Segurança Ofensiva, Web Application Security, Análise de Tráfego de Rede e Active Directory.
+- 🐧 **Ambiente & Workflow:** Usuário ativo de Linux (Ubuntu), combinando a agilidade de ferramentas de linha de comando (CLI) com eficiência de interfaces gráficas (GUI).
+- 🧠 **Aprendizado Contínuo:** Praticante frequente em plataformas de CTF como TryHackMe e Root-Me, documentando metodologias e aprendizados no Obsidian.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Ferramentas
 
-<div align="center">
+#### Linguagens & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
-#### Redes & Segurança
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-13294B?style=for-the-badge&logo=rapid7&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+#### Cibersegurança, Análise & Pentest
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+</p>
 
-#### Linguagens & Automação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-#### DevOps & Utilitários
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+#### Infraestrutura, Sistemas & Documentação
+<p>
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+</p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| 🔍 **[Network-Scanner](#)** | Scanner de portas e detecção de serviços para redes locais. | `Python`, `Sockets` |
-| 🛡️ **[Hardening-Scripts](#)** | Scripts para automação de políticas de segurança em servidores Linux. | `Bash`, `Linux` |
-| 🧪 **[Security-Labs](#)** | Laboratórios práticos de testes de intrusão e simulação de ameaças. | `Docker`, `Kali Linux` |
+#### 📡 1. Engenharia Reversa & Captura de Pacotes UDP (Protocolo Photon)
+- **Problema & Objetivo:** Interceptar e inspecionar a camada de transporte de tráfego de rede gerado por aplicações baseadas em Unity/Photon para decodificar estados em tempo de execução.
+- **Implementação:** Desenvolvimento de rotinas em Python com **PyShark** para captura de pacotes UDP em tempo real, parsing da estrutura binária de comandos Photon e extração de coordenadas 3D de entidades.
+- **Tecnologias:** `Python`, `PyShark`, `Wireshark`, `Protocol Reversing`.
+
+#### 📊 2. Arbitrage Tracking & Market Data Processor
+- **Problema & Objetivo:** Processar fluxos intensos de dados de mercado e pacotes de rede para calcular janelas de arbitragem, taxas e margens de lucro no ecossistema do Albion Online.
+- **Implementação:** Arquitetura híbrida composta por um coletor de pacotes de alta performance escrito em **Go (Golang)** integrado a um backend analítico em **Python (Django)** com persistência e rotinas de cálculo financeiro.
+- **Tecnologias:** `Go`, `Python`, `Django`, `Network Sniffing`, `Concurrency`.
+
+#### 🧪 3. Lab Conteinerizado de Testes NetBIOS / Samba
+- **Problema & Objetivo:** Criar um ambiente controlado e replicável para auditar o comportamento de name resolution e autenticação em redes locais heterogêneas.
+- **Implementação:** Infraestrutura em **Docker** em host Linux (Ubuntu) isolando serviços Samba/NetBIOS, simulando cenários para enumeração de compartilhamentos, envenenamento de consultas de nome (LLMNR/NBT-NS) e auditoria de configurações fracas de SMB.
+- **Tecnologias:** `Docker`, `Linux/Ubuntu`, `Samba`, `NetBIOS`, `SMB Audit`.
+
+#### 🔐 4. Divulgação Responsável: Tráfego em Texto Claro em HTTPDNS (CWE-319)
+- **Problema & Objetivo:** Identificar e auditar falhas estruturais de comunicação em componentes de resolução de nomes DNS baseados em HTTP.
+- **Implementação:** Detecção de transmissão não criptografada de tokens de autenticação/sessão de usuários durante requisições HTTPDNS. Criação de prova de conceito (PoC) e elaboração de relatório formal de Vulnerability Disclosure seguindo padrões da indústria.
+- **Tecnologias:** `HTTPDNS Analysis`, `Wireshark`, `CWE-319`, `Technical Reporting`.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WillowWillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="WillowWillo's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillowWillo&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-corgosinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-corgosinho&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📬 Conecte-se Comigo
-
 <div align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tryhackme.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-CC3434?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-  <a href="https://app.hackthebox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
-  </a>
+  <sub>Construído com foco em segurança, precisão e código limpo.</sub>
 </div>
