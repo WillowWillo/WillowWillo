@@ -61,24 +61,14 @@ Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🪄 1. PyShark UDP Sniffer & Engenharia Reversa</h4>
-      <p>Interceptação e dissecação em tempo real de pacotes UDP baseados no protocolo Photon (Unity), com extração e decodificação precisa de coordenadas vetoriais 3D.</p>
-      <p><code>Python</code> · <code>PyShark</code> · <code>Wireshark</code> · <code>Protocol Analysis</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 2. Albion Online Arbitrage & Data Processor</h4>
+      <h4>📈 1. Albion Online Arbitrage & Data Processor</h4>
       <p>Pipeline híbrido de alto desempenho composto por coletor concorrente de rede em Go e backend de cálculo de margens, taxas e oportunidades em Python (Django).</p>
       <p><code>Go (Golang)</code> · <code>Python</code> · <code>Django</code> · <code>Concurrency</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧪 3. Lab NetBIOS & Samba em Docker</h4>
-      <p>Ambiente isolado para testes e auditorias de serviços SMB/NetBIOS, simulando resolução de nomes (LLMNR/NBT-NS) e identificação de configurações vulneráveis.</p>
-      <p><code>Docker</code> · <code>Linux/Ubuntu</code> · <code>Samba</code> · <code>Network Lab</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📜 <a href="https://github.com/WillowWillo/WriteUps/tree/main/writeups/2026-httpdns-cookie-leak">4. Divulgação Responsável: Cookie Leak via HTTPDNS (CWE-319)</a></h4>
+      <h4>📜 <a href="https://github.com/WillowWillo/WriteUps">2. Divulgação Responsável: Cookie Leak via HTTPDNS (CWE-319)</a></h4>
       <p>Descoberta de tráfego de autenticação/tokens em texto claro via requisições HTTPDNS, acompanhada de prova de conceito e confecção de relatório formal de disclosure.</p>
       <p><code>HTTPDNS</code> · <code>Vulnerability Disclosure</code> · <code>Network Security</code></p>
     </td>
