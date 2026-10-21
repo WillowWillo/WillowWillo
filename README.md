@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Email-guildc2006@gmail.com-FAD2E1?style=for-the-badge&logo=gmail&logoColor=5E503F" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/guilherme-corgosinho-191550218?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-      <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Corgosinho-D0F4DE?style=for-the-badge&logo=linkedin&logoColor=22577A" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Willow%20Corgosinho-D0F4DE?style=for-the-badge&logo=linkedin&logoColor=22577A" alt="LinkedIn" />
     </a>
     <a href="https://profile.hackthebox.com/profile/01a0e0ea-9f46-72b8-928d-f05f19f4650d?utm_medium=copy_url">
       <img src="https://img.shields.io/badge/HackTheBox-Guildc12-C5E3F6?style=for-the-badge&logo=hackthebox&logoColor=114B5F" alt="HackTheBox" />
