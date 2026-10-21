@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>🌸 Hi there, I'm Guilherme! (WillowWillo) ✨</h1>
+  <h1>🌸 Hi there, I'm Willow! (WillowWillo) ✨</h1>
   <p><em>Security Enthusiast ☕ · Aspiring Pentester · Network & Reverse Engineering Explorer</em></p>
   <p>📍 Santo André, São Paulo, Brazil</p>
 
@@ -25,7 +25,7 @@
 
 ### 🌷 Um pouco sobre mim
 
-Seja bem-vindo(a) ao meu cantinho! Sou estudante e entusiasta de TI e Cibersegurança em busca de oportunidades como **Penetration Tester (Pentester)** ou **Assistente de Cibersegurança**. Adoro desvendar como as coisas funcionam por baixo dos panos, debugar redes e explorar arquiteturas.
+Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança em busca de oportunidades como **Penetration Tester (Pentester)** ou **Assistente de Cibersegurança**. Adoro desvendar como as coisas funcionam por baixo dos panos, debugar redes e explorar arquiteturas.
 
 - 🔍 **Áreas de Foco:** Segurança Ofensiva, Web Application Security, Análise de Tráfego de Rede e Active Directory.
 - 🐧 **Meu Ambiente:** Usuário de Linux (Ubuntu), aliando a praticidade da linha de comando (CLI) à agilidade de ferramentas visuais.
@@ -74,7 +74,7 @@ Seja bem-vindo(a) ao meu cantinho! Sou estudante e entusiasta de TI e Cibersegur
       <p><code>Docker</code> · <code>Linux/Ubuntu</code> · <code>Samba</code> · <code>Network Lab</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>📜 4. Divulgação Responsável (CWE-319)</h4>
+      <h4>📜 4. Divulgação Responsável em app de Delivery X (CWE-319)</h4>
       <p>Descoberta de tráfego de autenticação/tokens em texto claro via requisições HTTPDNS, acompanhada de prova de conceito e confecção de relatório formal de disclosure.</p>
       <p><code>HTTPDNS</code> · <code>Vulnerability Disclosure</code> · <code>Network Security</code></p>
     </td>
@@ -101,5 +101,5 @@ Seja bem-vindo(a) ao meu cantinho! Sou estudante e entusiasta de TI e Cibersegur
 ---
 
 <div align="center">
-  <p>🌸 <em>"Pequenos passos diários constroem grandes defesas."</em> ✨</p>
+  <p>🌸 <em>"Aqui acabou, por enquanto."</em> ✨</p>
 </div>
