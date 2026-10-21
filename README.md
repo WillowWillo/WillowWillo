@@ -74,9 +74,11 @@ Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança
       <p><code>Docker</code> · <code>Linux/Ubuntu</code> · <code>Samba</code> · <code>Network Lab</code></p>
     </td>
     <td width="50%" valign="top">
+    <a href="https://www.linkedin.com/in/guilherme-corgosinho-191550218?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
       <h4>📜 4. Divulgação Responsável em app de Delivery X (CWE-319)</h4>
       <p>Descoberta de tráfego de autenticação/tokens em texto claro via requisições HTTPDNS, acompanhada de prova de conceito e confecção de relatório formal de disclosure.</p>
       <p><code>HTTPDNS</code> · <code>Vulnerability Disclosure</code> · <code>Network Security</code></p>
+    </a>
     </td>
   </tr>
 </table>
