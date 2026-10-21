@@ -61,7 +61,7 @@ Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📈 1. Albion Online Arbitrage & Data Processor</h4>
+      <h4>📈 <a href="https://github.com/WillowWillo/Albion-Market-Flippi"> 1. Albion Online Arbitrage & Data Processor</a></h4>
       <p>Pipeline híbrido de alto desempenho composto por coletor concorrente de rede em Go e backend de cálculo de margens, taxas e oportunidades em Python (Django).</p>
       <p><code>Go (Golang)</code> · <code>Python</code> · <code>Django</code> · <code>Concurrency</code></p>
     </td>
