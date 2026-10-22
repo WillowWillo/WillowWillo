@@ -15,7 +15,7 @@
     <a href="https://profile.hackthebox.com/profile/01a0e0ea-9f46-72b8-928d-f05f19f4650d?utm_medium=copy_url">
       <img src="https://img.shields.io/badge/HackTheBox-Willo-C5E3F6?style=for-the-badge&logo=hackthebox&logoColor=114B5F" alt="HackTheBox" />
     </a>
-    <a href="https://tryhackme.com/p/willowWilow?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=17f9f99dee13&utm_source=copy&sharerId=608485ac5718b500405a82a6">
+    <a href="https://tryhackme.com/p/willoWilow?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=17f9f99dee13&utm_source=copy&sharerId=608485ac5718b500405a82a6">
       <img src="https://img.shields.io/badge/TryHackMe-willoWillow-E2C2FF?style=for-the-badge&logo=tryhackme&logoColor=4A154B" alt="TryHackMe" />
     </a>
   </p>
