@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/HackTheBox-Willo-C5E3F6?style=for-the-badge&logo=hackthebox&logoColor=114B5F" alt="HackTheBox" />
     </a>
     <a href="https://tryhackme.com/p/R3TR017?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=17f9f99dee13&utm_source=copy&sharerId=608485ac5718b500405a82a6">
-      <img src="https://img.shields.io/badge/TryHackMe-R3TR017-E2C2FF?style=for-the-badge&logo=tryhackme&logoColor=4A154B" alt="TryHackMe" />
+      <img src="https://img.shields.io/badge/TryHackMe-willoWillow-E2C2FF?style=for-the-badge&logo=tryhackme&logoColor=4A154B" alt="TryHackMe" />
     </a>
   </p>
 
