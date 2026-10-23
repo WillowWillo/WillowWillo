@@ -68,7 +68,7 @@ Seja bem-vindo(a) ao meu git! Sou estudante e entusiasta de TI e Cibersegurança
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📜 <a href="https://github.com/WillowWillo/WriteUps">2. Divulgação Responsável: Cookie Leak via HTTPDNS (CWE-319)</a></h4>
+      <h4>📜 <a href="https://github.com/WillowWillo/WriteUps/REDACTEDS">2. Divulgação Responsável: Cookie Leak via HTTPDNS (CWE-319)</a></h4>
       <p>Descoberta de tráfego de autenticação/tokens em texto claro via requisições HTTPDNS, acompanhada de prova de conceito e confecção de relatório formal de disclosure.</p>
       <p><code>HTTPDNS</code> · <code>Vulnerability Disclosure</code> · <code>Network Security</code></p>
     </td>
